@@ -1,0 +1,84 @@
+fileFormatVersion: 2
+guid: 422c5c8cfc0c49545837cab201a7d830
+timeCreated: 1514219002
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+  spritePackingTag: 
+  userData: '{"fileNaming":"LayerNameOnly","groupMode":"ParentOnly","PackingTag":null,"TargetDirectory":"Assets/Textures/UI","AutoImport":false,"DefaultAlignment":"Center","DefaultPivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","DocAlignment":"Center","DocPivot":{"x":0.5,"y":0.5},"DocRoot":{"name":"DOCUMENT_ROOT","path":null,"indexId":[-1],"import":false,"useDefaults":false,"Alignment":"Center","Pivot":{"x":0.0,"y":0.0},"ScaleFactor":"Full","Childs":[{"name":"BG","path":"BG","indexId":[0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"UI
+    Elements","path":"UI Elements","indexId":[1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Mockup
+    Text","path":"Mockup Text","indexId":[2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Along
+    the way, Our Hero meets a young (blond) princess who join","path":"Mockup Text/Along
+    the way, Our Hero meets a young (blond) princess who join","indexId":[2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Chapter
+    III: The Dale","path":"Mockup Text/Chapter III: The Dale","indexId":[2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Graphics
+    Options","path":"Mockup Text/Graphics Options","indexId":[2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Graphical
+    Awesomeness","path":"Mockup Text/Graphical Awesomeness","indexId":[2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"More
+    Epic Loot","path":"Mockup Text/More Epic Loot","indexId":[2,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]}}'
+  assetBundleName: 
+  assetBundleVariant: 

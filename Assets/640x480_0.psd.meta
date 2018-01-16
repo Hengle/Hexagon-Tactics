@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: cdf41bcc6ae87a84497459c776246bd4
+timeCreated: 1514232775
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+  nPOTScale: 1
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites: []
+    outline: []
+  spritePackingTag: 
+  userData: '{"fileNaming":"LayerNameOnly","groupMode":"ParentOnly","PackingTag":null,"TargetDirectory":"Assets/Textures/UI/RPG_UI","AutoImport":false,"DefaultAlignment":"Center","DefaultPivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","DocAlignment":"Center","DocPivot":{"x":0.5,"y":0.5},"DocRoot":{"name":"DOCUMENT_ROOT","path":null,"indexId":[-1],"import":false,"useDefaults":false,"Alignment":"Center","Pivot":{"x":0.0,"y":0.0},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    15","path":"Layer 15","indexId":[0],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    25","path":"Layer 25","indexId":[1],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Discards","path":"Discards","indexId":[2],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Group
+    3","path":"Discards/Group 3","indexId":[2,0],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    52","path":"Discards/Group 3/Layer 52","indexId":[2,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    52 copy","path":"Discards/Group 3/Layer 52 copy","indexId":[2,0,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Group
+    3 copy","path":"Discards/Group 3 copy","indexId":[2,1],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    52 copy 2","path":"Discards/Group 3 copy/Layer 52 copy 2","indexId":[2,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    52 copy 3","path":"Discards/Group 3 copy/Layer 52 copy 3","indexId":[2,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Group
+    4","path":"Discards/Group 4","indexId":[2,2],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    52 copy 4","path":"Discards/Group 4/Layer 52 copy 4","indexId":[2,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    52 copy 5","path":"Discards/Group 4/Layer 52 copy 5","indexId":[2,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Palette","path":"Discards/Palette","indexId":[2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Texture
+    copy","path":"Discards/Texture copy","indexId":[2,4],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"textura
+    copy 6","path":"Discards/textura copy 6","indexId":[2,5],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"textura
+    copy 7","path":"Discards/textura copy 7","indexId":[2,6],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"textura","path":"Discards/textura","indexId":[2,7],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"sello","path":"Discards/sello","indexId":[2,8],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"palette
+    paper","path":"Discards/palette paper","indexId":[2,9],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"crystal","path":"Discards/crystal","indexId":[2,10],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"top","path":"Discards/top","indexId":[2,11],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"top
+    copy 3","path":"Discards/top copy 3","indexId":[2,12],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    39","path":"Discards/Layer 39","indexId":[2,13],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Close
+    copy 3","path":"Discards/Close copy 3","indexId":[2,14],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Spellbar
+    copy","path":"Discards/Spellbar copy","indexId":[2,15],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"top
+    copy 2","path":"Discards/top copy 2","indexId":[2,16],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"crystal
+    copy 2","path":"Discards/crystal copy 2","indexId":[2,17],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"crystal
+    copy 3","path":"Discards/crystal copy 3","indexId":[2,18],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    17","path":"Discards/Layer 17","indexId":[2,19],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    17 copy 4","path":"Discards/Layer 17 copy 4","indexId":[2,20],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"tag
+    copy 5","path":"Discards/tag copy 5","indexId":[2,21],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    17 copy 5","path":"Discards/Layer 17 copy 5","indexId":[2,22],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    17 copy 6","path":"Discards/Layer 17 copy 6","indexId":[2,23],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"top
+    copy 5","path":"Discards/top copy 5","indexId":[2,24],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    30","path":"Discards/Layer 30","indexId":[2,25],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    29","path":"Discards/Layer 29","indexId":[2,26],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    29 copy","path":"Discards/Layer 29 copy","indexId":[2,27],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"top
+    copy","path":"Discards/top copy","indexId":[2,28],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    14","path":"Discards/Layer 14","indexId":[2,29],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    14 copy","path":"Discards/Layer 14 copy","indexId":[2,30],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Corner
+    copy 2","path":"Discards/Corner copy 2","indexId":[2,31],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    7 copy 8","path":"Discards/Corner copy 2/Layer 7 copy 8","indexId":[2,31,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    7 copy 9","path":"Discards/Corner copy 2/Layer 7 copy 9","indexId":[2,31,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    7 copy 10","path":"Discards/Corner copy 2/Layer 7 copy 10","indexId":[2,31,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    7 copy 11","path":"Discards/Corner copy 2/Layer 7 copy 11","indexId":[2,31,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"close
+    copy 2","path":"Discards/close copy 2","indexId":[2,32],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    17 copy 2","path":"Discards/close copy 2/Layer 17 copy 2","indexId":[2,32,0],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    18 copy 3","path":"Discards/close copy 2/Layer 18 copy 3","indexId":[2,32,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"x
+    copy 2","path":"Discards/close copy 2/x copy 2","indexId":[2,32,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"textura
+    copy 2","path":"Discards/textura copy 2","indexId":[2,33],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"tag
+    copy 2","path":"Discards/tag copy 2","indexId":[2,34],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    19","path":"Discards/Layer 19","indexId":[2,35],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    26 copy 2","path":"Discards/Layer 26 copy 2","indexId":[2,36],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Frame","path":"Frame","indexId":[3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    34","path":"Frame/Layer 34","indexId":[3,0],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    16","path":"Frame/Layer 16","indexId":[3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"top","path":"Frame/top","indexId":[3,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    39 copy","path":"Frame/top/Layer 39 copy","indexId":[3,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"move
+    button","path":"Frame/top/move button","indexId":[3,2,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"crystal
+    copy 4","path":"Frame/top/crystal copy 4","indexId":[3,2,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"top
+    copy 4","path":"Frame/top/top copy 4","indexId":[3,2,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Close
+    copy 6","path":"Frame/top/Close copy 6","indexId":[3,2,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"orange
+    glow gaussian 0.3","path":"Frame/top/orange glow gaussian 0.3","indexId":[3,2,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Layer
+    38 copy 6","path":"Frame/Layer 38 copy 6","indexId":[3,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Spells","path":"Spells","indexId":[4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    46","path":"Spells/Layer 46","indexId":[4,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Texture","path":"Spells/Texture","indexId":[4,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Texture
+    copy 4","path":"Spells/Texture copy 4","indexId":[4,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Gradient
+    Map 2","path":"Spells/Gradient Map 2","indexId":[4,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"icons","path":"Spells/icons","indexId":[4,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    10","path":"Spells/icons/Layer 10","indexId":[4,4,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    11","path":"Spells/icons/Layer 11","indexId":[4,4,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    12","path":"Spells/icons/Layer 12","indexId":[4,4,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    13","path":"Spells/icons/Layer 13","indexId":[4,4,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"boxes","path":"Spells/boxes","indexId":[4,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"vertical
+    lines","path":"Spells/boxes/vertical lines","indexId":[4,5,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    37 copy 6","path":"Spells/boxes/Layer 37 copy 6","indexId":[4,5,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Glass
+    copy 5","path":"Spells/boxes/Glass copy 5","indexId":[4,5,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Glass
+    copy 7","path":"Spells/boxes/Glass copy 7","indexId":[4,5,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Glass
+    copy 8","path":"Spells/boxes/Glass copy 8","indexId":[4,5,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Glass
+    copy 6","path":"Spells/boxes/Glass copy 6","indexId":[4,5,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Text","path":"Spells/Text","indexId":[4,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"You
+    have 5 points to spend","path":"Spells/Text/You have 5 points to spend","indexId":[4,6,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Spells","path":"Spells/Text/Spells","indexId":[4,6,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"Inventario","path":"Inventario","indexId":[5],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Texture
+    copy 6","path":"Inventario/Texture copy 6","indexId":[5,0],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Group
+    2","path":"Inventario/Group 2","indexId":[5,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Texture
+    copy 3","path":"Inventario/Group 2/Texture copy 3","indexId":[5,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Texture
+    copy 2","path":"Inventario/Group 2/Texture copy 2","indexId":[5,1,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    59 copy 12","path":"Inventario/Group 2/Layer 59 copy 12","indexId":[5,1,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Gradient
+    Map 1","path":"Inventario/Group 2/Gradient Map 1","indexId":[5,1,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Layer
+    48 copy 22","path":"Inventario/Layer 48 copy 22","indexId":[5,2],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"money","path":"Inventario/money","indexId":[5,3],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Hue/Saturation
+    1","path":"Inventario/money/Hue/Saturation 1","indexId":[5,3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Hue/Saturation
+    1 copy","path":"Inventario/money/Hue/Saturation 1 copy","indexId":[5,3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Hue/Saturation
+    1 copy 2","path":"Inventario/money/Hue/Saturation 1 copy 2","indexId":[5,3,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Layer
+    47 copy 5","path":"Inventario/Layer 47 copy 5","indexId":[5,4],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"money
+    copy","path":"Inventario/money copy","indexId":[5,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"gold","path":"Inventario/money
+    copy/gold","indexId":[5,5,0],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"silver","path":"Inventario/money
+    copy/silver","indexId":[5,5,1],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"copper","path":"Inventario/money
+    copy/copper","indexId":[5,5,2],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"deposit","path":"Inventario/money
+    copy/deposit","indexId":[5,5,3],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Group
+    1 copy","path":"Inventario/money copy/deposit/Group 1 copy","indexId":[5,5,3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    8 copy","path":"Inventario/money copy/deposit/Group 1 copy/Layer 8 copy","indexId":[5,5,3,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    9 copy 3","path":"Inventario/money copy/deposit/Group 1 copy/Layer 9 copy 3","indexId":[5,5,3,0,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    9 copy 4","path":"Inventario/money copy/deposit/Group 1 copy/Layer 9 copy 4","indexId":[5,5,3,0,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    9 copy 5","path":"Inventario/money copy/deposit/Group 1 copy/Layer 9 copy 5","indexId":[5,5,3,0,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Deposit","path":"Inventario/money
+    copy/deposit/Deposit","indexId":[5,5,3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"deposit
+    copy","path":"Inventario/money copy/deposit copy","indexId":[5,5,4],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Group
+    1 copy 2","path":"Inventario/money copy/deposit copy/Group 1 copy 2","indexId":[5,5,4,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    8 copy 2","path":"Inventario/money copy/deposit copy/Group 1 copy 2/Layer 8 copy
+    2","indexId":[5,5,4,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    58","path":"Inventario/money copy/deposit copy/Group 1 copy 2/Layer 58","indexId":[5,5,4,0,1],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    57","path":"Inventario/money copy/deposit copy/Group 1 copy 2/Layer 57","indexId":[5,5,4,0,2],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    56","path":"Inventario/money copy/deposit copy/Group 1 copy 2/Layer 56","indexId":[5,5,4,0,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Retire","path":"Inventario/money
+    copy/deposit copy/Retire","indexId":[5,5,4,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"25,640,779","path":"Inventario/money
+    copy/25,640,779","indexId":[5,5,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    5 copy 2","path":"Inventario/money copy/Layer 5 copy 2","indexId":[5,5,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Text","path":"Inventario/Text","indexId":[5,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Inventory","path":"Inventario/Text/Inventory","indexId":[5,6,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"Mission","path":"Mission","indexId":[6],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    42","path":"Mission/Layer 42","indexId":[6,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"textura
+    copy 8","path":"Mission/textura copy 8","indexId":[6,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    44","path":"Mission/Layer 44","indexId":[6,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    43 copy","path":"Mission/Layer 43 copy","indexId":[6,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    45","path":"Mission/Layer 45","indexId":[6,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"sello
+    red","path":"Mission/sello red","indexId":[6,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"sello
+    blue","path":"Mission/sello blue","indexId":[6,6],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Accept","path":"Mission/Accept","indexId":[6,7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Group
+    1","path":"Mission/Accept/Group 1","indexId":[6,7,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    8","path":"Mission/Accept/Group 1/Layer 8","indexId":[6,7,0,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    9 copy 2","path":"Mission/Accept/Group 1/Layer 9 copy 2","indexId":[6,7,0,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    9","path":"Mission/Accept/Group 1/Layer 9","indexId":[6,7,0,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    9 copy","path":"Mission/Accept/Group 1/Layer 9 copy","indexId":[6,7,0,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Accept","path":"Mission/Accept/Accept","indexId":[6,7,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Text","path":"Mission/Text","indexId":[6,8],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"John
+    Lennon","path":"Mission/Text/John Lennon","indexId":[6,8,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Finding
+    the sacred note Lorem ipsum dolor sit amet, consectetur","path":"Mission/Text/Finding
+    the sacred note Lorem ipsum dolor sit amet, consectetur","indexId":[6,8,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"scroll
+    bar","path":"Mission/scroll bar","indexId":[6,9],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Layer
+    33 copy","path":"Mission/scroll bar/Layer 33 copy","indexId":[6,9,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"down","path":"Mission/scroll
+    bar/down","indexId":[6,9,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"hover","path":"Mission/scroll
+    bar/down/hover","indexId":[6,9,1,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"neutral","path":"Mission/scroll
+    bar/down/neutral","indexId":[6,9,1,1],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"up","path":"Mission/scroll
+    bar/up","indexId":[6,9,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"hover","path":"Mission/scroll
+    bar/up/hover","indexId":[6,9,2,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"neutral","path":"Mission/scroll
+    bar/up/neutral","indexId":[6,9,2,1],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"slider","path":"Mission/scroll
+    bar/slider","indexId":[6,9,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"Bar","path":"Bar","indexId":[7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Spellbar","path":"Bar/Spellbar","indexId":[7,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"System
+    bar copy 3","path":"Bar/System bar copy 3","indexId":[7,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Texture
+    empty","path":"Bar/Texture empty","indexId":[7,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"System","path":"Bar/System","indexId":[7,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"system
+    icons","path":"Bar/System/system icons","indexId":[7,3,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"glass","path":"Bar/System/glass","indexId":[7,3,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Spell
+    bar","path":"Bar/Spell bar","indexId":[7,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"icons
+    copy 2","path":"Bar/Spell bar/icons copy 2","indexId":[7,4,0],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    2 copy 6","path":"Bar/Spell bar/Shape 2 copy 6","indexId":[7,4,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Glass
+    copy 3","path":"Bar/Spell bar/Glass copy 3","indexId":[7,4,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Spell
+    bar copy","path":"Bar/Spell bar copy","indexId":[7,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Glass
+    copy 4","path":"Bar/Spell bar copy/Glass copy 4","indexId":[7,5,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]},{"name":"Portrait","path":"Portrait","indexId":[8],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Shape
+    2","path":"Portrait/Shape 2","indexId":[8,0],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    54","path":"Portrait/Layer 54","indexId":[8,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Shape
+    1","path":"Portrait/Shape 1","indexId":[8,2],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    53","path":"Portrait/Layer 53","indexId":[8,3],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    64 copy 13","path":"Portrait/Layer 64 copy 13","indexId":[8,4],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Group
+    4 copy 2","path":"Portrait/Group 4 copy 2","indexId":[8,5],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Group
+    4 copy","path":"Portrait/Group 4 copy","indexId":[8,6],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    53 copy","path":"Portrait/Layer 53 copy","indexId":[8,7],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"150","path":"Portrait/150","indexId":[8,8],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"95/1500","path":"Portrait/95/1500","indexId":[8,9],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"95/1500","path":"Portrait/95/1500","indexId":[8,10],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]},{"name":"Shape
+    3","path":"Shape 3","indexId":[9],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    64","path":"Layer 64","indexId":[10],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Group
+    4 copy 3","path":"Group 4 copy 3","indexId":[11],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Layer
+    53 copy 2","path":"Layer 53 copy 2","indexId":[12],"import":false,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Cursor","path":"Cursor","indexId":[13],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[{"name":"Contour","path":"Cursor/Contour","indexId":[13,0],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]},{"name":"Arrow","path":"Cursor/Arrow","indexId":[13,1],"import":true,"useDefaults":true,"Alignment":"Center","Pivot":{"x":0.5,"y":0.5},"ScaleFactor":"Full","Childs":[]}]}]}}'
+  assetBundleName: 
+  assetBundleVariant: 
